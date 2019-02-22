@@ -1,3 +1,5 @@
+//sample comment
+
 public abstract class Bouquet {
 
     double price;
